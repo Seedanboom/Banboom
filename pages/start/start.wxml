@@ -1,0 +1,7 @@
+<!--start.wxml-->
+
+<view class="p1">
+<image src="/img/hld.png" class="img"></image>
+<button class="btn1" bindtap="navigate">点击查看实时违规情况</button>
+
+</view>

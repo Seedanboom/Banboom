@@ -1,0 +1,16 @@
+/* start.wxss */
+
+.img{
+  margin-top: 200rpx
+}
+
+.btn1{
+  margin-top:0rpx;
+  width: 70%;
+  background: #5f9ea0
+}
+
+.p1{
+  background-color: #c5b6af;
+  height: 100%
+}
